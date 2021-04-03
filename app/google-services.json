@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180109528372",
+    "project_id": "esthetic-shop",
+    "storage_bucket": "esthetic-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180109528372:android:d95cd885ee61214d876961",
+        "android_client_info": {
+          "package_name": "edu.unicauca.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180109528372-plqhh04n2eoccj8r1jn2378lbmn13put.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyVKoBEmjhrWy-V_jIQxH8amjmsg_Lc7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180109528372-plqhh04n2eoccj8r1jn2378lbmn13put.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
